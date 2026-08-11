@@ -6,7 +6,7 @@ A modern clinic queue management application built using React and Vite, designe
 
 ## 🚀 Live Demo
 
-🔗 Coming Soon
+https://clinic-q-two.vercel.app
 
 ## 📸 Screenshots
 
