@@ -28,9 +28,9 @@ https://clinic-q-two.vercel.app
 ![Appointments](https://github.com/amal196/Clinic-Q/blob/main/assets/Appointments.png?raw=true)
 
 
-### Analytics
+### Patients
 
-(Add Screenshot)
+![Patients](https://github.com/amal196/Clinic-Q/blob/main/assets/Patients.png?raw=true)
 
 ## 📌 Project Type
 
