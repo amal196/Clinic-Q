@@ -10,7 +10,7 @@ https://clinic-q-two.vercel.app
 
 ## 📸 Screenshots
 
-### Dashboard
+assets/Dashboard.png
 
 (Add Screenshot)
 
