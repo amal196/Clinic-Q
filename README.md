@@ -32,6 +32,10 @@ https://clinic-q-two.vercel.app
 
 ![Patients](https://github.com/amal196/Clinic-Q/blob/main/assets/Patients.png?raw=true)
 
+### Analytics
+
+![Analytics](https://github.com/amal196/Clinic-Q/blob/main/assets/Analytics.png?raw=true)
+
 ## 📌 Project Type
 
 React Frontend Portfolio Project
