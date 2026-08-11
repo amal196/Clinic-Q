@@ -18,11 +18,15 @@ https://clinic-q-two.vercel.app
 
 ### Queue Management
 
+
 ![Queue Management](https://github.com/amal196/Clinic-Q/blob/main/assets/Queue%20management.png?raw=true)
 
-### Patient Management
 
-(Add Screenshot)
+### Appointments
+
+
+![Appointments](https://github.com/amal196/Clinic-Q/blob/main/assets/Appointments.png?raw=true)
+
 
 ### Analytics
 
