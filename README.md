@@ -18,7 +18,7 @@ https://clinic-q-two.vercel.app
 
 ### Queue Management
 
-(Add Screenshot)
+
 
 ### Patient Management
 
