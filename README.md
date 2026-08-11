@@ -10,7 +10,7 @@ https://clinic-q-two.vercel.app
 
 ## 📸 Screenshots
 
-assets/Dashboard.png
+https://github.com/amal196/Clinic-Q/blob/main/assets/Dashboard.png?raw=true
 
 (Add Screenshot)
 
